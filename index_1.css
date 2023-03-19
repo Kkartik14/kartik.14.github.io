@@ -1,0 +1,160 @@
+
+        .hmh {
+            border-radius: 20px;
+            border: rgb(215, 30, 30);
+            border: 5px;
+            border-style: solid;
+            background-color: rgb(185, 255, 214);
+            padding-left: 15%;
+            padding-right: 15%;
+            padding-top: 2%;
+            padding-bottom: 2%;
+            background-image: url(6.jpeg);
+            text-align: center;
+            text-decoration: none;
+            
+        }
+
+        #Connection {
+            border: 0.001px;
+            border-color: white;
+            border-style: solid;
+            border-radius: 15px;
+            background-color: rgb(1, 8, 32);
+            text-decoration: none;
+        }
+        #Connection:hover{
+            background-color: rgb(165, 165, 221);
+            color: black;
+            border-color: white;
+            font-style: oblique;
+        }
+
+        #whatsapp {
+            border: 0.001px;
+            border-color: white;
+            border-style: solid;
+            border-radius: 15px;
+            background-color: rgb(9, 24, 69);
+        }
+        #whatsapp:hover{
+            background-color: rgb(165, 165, 221);
+            color: black;
+            border-color: white;
+            font-style: oblique;
+        }
+
+        #facebook {
+            border: 0.001px;
+            border-color: white;
+            border-style: solid;
+            border-radius: 15px;
+            background-color: rgb(32, 41, 111);
+        }
+        #facebook:hover{
+            background-color: rgb(165, 165, 221);
+            color: black;
+            border-color: white;
+            font-style: oblique;
+        }
+
+        #google {
+            border: 0.001px;
+            border-color: white;
+            border-style: solid;
+            border-radius: 15px;
+            background-color: rgb(129, 126, 187);
+        }
+        #google:hover
+        {
+            background-color: rgb(165, 165, 221);
+            color: black;
+            border-color: white;
+            font-style: oblique;
+        }
+
+
+        #Instagram {
+            border: 0.001px;
+            border-color: white;
+            border-style: solid;
+            border-radius: 15px;
+            background-color: rgb(71, 75, 154);
+            text-align: center;
+        }
+        #Instagram:hover{
+            background-color: rgb(165, 165, 221);
+            color: black;
+            border-color: white;
+            font-style: oblique;
+        }
+
+        #Connect {
+            color: black;
+            background: white;
+            border-radius: 10px;
+            border: 10px;
+            border: solid 5px;
+            text-align: center;
+        }
+
+        #whst {
+            color: black;
+            background: white;
+            border-radius: 10px;
+            border: solid 5px;
+        }
+
+        #face {
+            color: black;
+            background: white;
+            border-radius: 10px;
+            border-color: black;
+            border: solid 5px;
+        }
+
+        #ggfrm {
+            color: black;
+            background: white;
+            border-radius: 10px;
+            border-color: black;
+            border: solid 5px;
+        }
+
+        #instg {
+            color: black;
+            background: white;
+            border-radius: 10px;
+            border-color: black;
+            border: solid 5px;
+        }
+
+        #Connct {
+            color: white;
+            font-style: oblique;
+            border-color: black;
+        }
+
+        #whts{
+            color: white;
+            font-style: oblique;
+            border-color: black;
+        }
+
+        #fcb{
+            color: white;
+            font-style: oblique;
+            border-color: black;
+        }
+
+        #istg{
+            color: white;
+            font-style: oblique;
+            border-color: black;
+        }
+
+        #gg{
+            color: white;
+            font-style: oblique;
+            border-color: black;
+        }
